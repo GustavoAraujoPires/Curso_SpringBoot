@@ -1,7 +1,7 @@
 spring:
   application:
     name: Produtos API
-  datasorce:
+  datasource:
     url: jdbc:h2:mem:produtos
     username: sa
     password: password
